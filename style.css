@@ -131,3 +131,22 @@ main section{
      box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
      
 }
+/* resume */
+.resume-container{
+    display: flex;
+    gap: 24px;
+}
+.expireance-sub-title{
+font-weight: 600;
+font-size: 20px;
+margin-bottom: 20px;
+}
+.expireance-sub-title, .expireance-decription{
+color: #757575;
+}
+.resuem hr{
+    margin: 30px 5px;
+}
+.resume-download{
+    margin-top: 50px;
+}

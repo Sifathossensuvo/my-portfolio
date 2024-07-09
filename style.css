@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    
+}
 /* font */
 
 
@@ -149,4 +153,19 @@ color: #757575;
 }
 .resume-download{
     margin-top: 50px;
+}
+footer{
+    padding: 130px 230px;
+    display: flex;
+}
+.footer-column{
+    width: 50%;
+}
+footer input[type="text"]{
+    height: 64px;
+    border-radius: 5px;
+    background-color: white;
+    display: flex;
+    width: 100%;
+    padding: 10px 20px;
 }
